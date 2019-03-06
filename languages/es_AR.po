@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-12-05 16:30-0300\n"
+"PO-Revision-Date: 2018-12-05 16:30-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:53 functions.php:212
+msgid "Link to GitHub"
+msgstr "Link a GitHub"
+
+#: archive.php:65
+msgid "Previous page"
+msgstr "Atras"
+
+#: archive.php:66
+msgid "Next page"
+msgstr "Siguiente"
+
+#: archive.php:67
+msgid "Page"
+msgstr "Pagina"
+
+#: footer-form.php:1
+msgid "My Footer Settings Page"
+msgstr "Administrar Footer"
+
+#: footer-form.php:6
+msgid "Enter your email"
+msgstr "Ingresa tu email"
+
+#: footer-form.php:11
+msgid "Enter your phone number"
+msgstr "Ingresa tu numero de telefono"
+
+#: footer-form.php:16
+msgid "Upload your Curriculum"
+msgstr "Ingresa tu Curriculum"
+
+#: footer-form.php:20
+msgid "Upload Curriculum"
+msgstr "Subir CV"
+
+#: footer-form.php:25 header-form.php:19
+msgid "Save"
+msgstr "Guardar"
+
+#: footer.php:3
+msgid "Contact"
+msgstr "Contacto"
+
+#: footer.php:8
+msgid "Download CV"
+msgstr "Descargar CV"
+
+#: footer.php:11
+msgid "Phone"
+msgstr "Teléfono"
+
+#: functions.php:60
+msgid "Project"
+msgstr "Proyecto"
+
+#: functions.php:75
+msgid "Curriculums"
+msgstr "Curriculums"
+
+#: functions.php:76
+msgid "Curriculum"
+msgstr "Curriculum"
+
+#: functions.php:109
+msgid "My Footer Admin Page"
+msgstr "Mi Footer"
+
+#: functions.php:110
+msgid "Footer Settings"
+msgstr "Cambiar Footer"
+
+#: functions.php:141
+msgid "Header Settings"
+msgstr "Cambiar Header"
+
+#: functions.php:154 functions.php:168 index.php:86
+msgid "Technologies"
+msgstr "Tecnologias"
+
+#: functions.php:155
+msgid "Technology"
+msgstr "Tecnologia"
+
+#: functions.php:156
+msgid "Search Technologies"
+msgstr "Buscar Tecnologias"
+
+#: functions.php:157
+msgid "Popular Technologies"
+msgstr "Tecnologias populares"
+
+#: functions.php:158
+msgid "All Technologies"
+msgstr "Todas las Tecnologias"
+
+#: functions.php:161
+msgid "Edit Technology"
+msgstr "Editar Tecnologia"
+
+#: functions.php:162
+msgid "Update Technology"
+msgstr "Actualizar Tecnologia"
+
+#: functions.php:163
+msgid "Add New Technology"
+msgstr "Añadir Tecnologia"
+
+#: functions.php:164
+msgid "New Technology Name"
+msgstr "Nuevo nombre de Tecnologia"
+
+#: functions.php:165
+msgid "Separate technologies with commas"
+msgstr "Separa tecnologias con comas"
+
+#: functions.php:166
+msgid "Add or remove technologies"
+msgstr "Añade o elimina tecnologias"
+
+#: functions.php:167
+msgid "Choose from the most used technologies"
+msgstr "Elije entre las tecnologias mas usadas"
+
+#: functions.php:193
+msgid "Project Field Group"
+msgstr "Grupo de Campos de Proyecto"
+
+#: functions.php:197
+msgid "Link to site"
+msgstr "Link al sitio"
+
+#: functions.php:200
+msgid "Adds an URL for the project's site."
+msgstr "Añade una URL para el sitio del proyecto."
+
+#: functions.php:215
+msgid "Adds an URL to the project's GitHub repository."
+msgstr "Añade una URL para el repositorio de GitHub."
+
+#: functions.php:228
+msgid "Project Image"
+msgstr "Imagen del Proyecto"
+
+#: functions.php:231
+msgid "Add your Project Image"
+msgstr "Añade tu imagen para el proyecto"
+
+#: functions.php:276
+msgid "Curriculum Field Group"
+msgstr "Grupo de Campos de Curriculum"
+
+#: functions.php:280
+msgid "Current Position"
+msgstr "Posición Actual"
+
+#: functions.php:283
+msgid "Your current position."
+msgstr "Tu posición actual."
+
+#: functions.php:299
+msgid "Portrait"
+msgstr "Retrato"
+
+#: functions.php:302
+msgid "Add a portrait of yourself."
+msgstr "Añade un retrato personal."
+
+#: functions.php:323
+msgid "Degrees and Certificates"
+msgstr "TItulos y Certificaciones"
+
+#: functions.php:326
+msgid "Add degrees and certificates."
+msgstr "Añade titulos y certificaciones."
+
+#: functions.php:338
+msgid "Degrees"
+msgstr "Titulos"
+
+#: functions.php:341
+msgid "Add your degrees."
+msgstr "Añade tus titulos."
+
+#: functions.php:357
+msgid "Degree"
+msgstr "TItulo"
+
+#: functions.php:360
+msgid "Add individual degree."
+msgstr "Añade un titulo."
+
+#: functions.php:378
+msgid "Institution"
+msgstr "Institución"
+
+#: functions.php:381
+msgid "Add your institutions."
+msgstr "Añade tus instituciones."
+
+#: functions.php:397 functions.php:479
+msgid "Name"
+msgstr "Nombre"
+
+#: functions.php:416
+msgid "Certificates"
+msgstr "Certificaciones"
+
+#: functions.php:435
+msgid "Certificate Name"
+msgstr "Nombre del certificado"
+
+#: functions.php:460
+msgid "Tecnologies"
+msgstr "Tecnologias"
+
+#: functions.php:463
+msgid "Add technologies you learned or are currently learning."
+msgstr "Añade las tecnologias que aprendiste o estás aprendiendo."
+
+#: functions.php:482
+msgid "Add name of the particular technology."
+msgstr "Añade el nombre de una tecnologia en particular."
+
+#: functions.php:498
+msgid "Mastery Percentage"
+msgstr "Porcentaje de Maestria"
+
+#: functions.php:501
+msgid "Display how well do you know it in a range from 1 to 100."
+msgstr "Especifica tu nivel de conocimiento del 1 al 100."
+
+#: functions.php:521
+msgid "Books"
+msgstr "Libros"
+
+#: functions.php:524
+msgid "Add books you've read and books you're currently reading."
+msgstr "Añade libros que hayas leido y libros que estés leyendo."
+
+#: functions.php:536
+msgid "Books read."
+msgstr "Libros leidos."
+
+#: functions.php:539
+msgid "Add books you've read"
+msgstr "Añade libros que hayas leido"
+
+#: functions.php:555 functions.php:595
+msgid "Book"
+msgstr "Libro"
+
+#: functions.php:558
+msgid "Add individual book."
+msgstr "Añade un libro."
+
+#: functions.php:576
+msgid "Books being read."
+msgstr "Libros que estás leyendo."
+
+#: functions.php:579
+msgid "Add books you're currently reading."
+msgstr "Añade libros que estes leyendo actualmente."
+
+#: header-form.php:1
+msgid "My Header Settings Page"
+msgstr "Administrar Header"
+
+#: header-form.php:6
+msgid "Enter your name"
+msgstr "Ingresa tu nombre"
+
+#: header-form.php:10
+msgid "Enter your image"
+msgstr "Ingresa tu imagen"
+
+#: header-form.php:14
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: header.php:7
+msgid "Home"
+msgstr "Inicio"
+
+#: header.php:8
+msgid "Projects"
+msgstr "Proyectos"
+
+#: index-header.php:6
+msgid "See Projects"
+msgstr "Ver Proyectos"
+
+#: index.php:44
+msgid "Certifications"
+msgstr "Certificaciones"
+
+#: index.php:100
+msgid "Programming books I have read"
+msgstr "Libros de programación que leí"
+
+#: index.php:111
+msgid "Books I am currently reading"
+msgstr "Libros que estoy leyendo"
+
+#, fuzzy
+#~| msgid "Technologies"
+#~ msgid "Tecnologias"
+#~ msgstr "Tecnologias"
